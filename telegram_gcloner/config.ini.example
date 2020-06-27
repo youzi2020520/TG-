@@ -1,8 +1,11 @@
 [General]
 path_to_gclone =
 
+C:/Users/fzz/Desktop/Telegram.exe
+
 telegram_token =
+1325005300:AAGG7tPzD_Yz-iEteYpeLbksKW7lv-qQytQ
 user_ids = -1
 group_ids = -1
 
-ad_string = 再了个见，请<a href="{}">私聊本机器人</a>。
+ad_string = GDclover 搬运bot，请<a href="{}">私聊本机器人</a>。
